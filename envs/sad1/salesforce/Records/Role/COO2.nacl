@@ -1,0 +1,11 @@
+salesforce.Role COO2 {
+  fullName = "COO2"
+  caseAccessLevel = "Edit"
+  contactAccessLevel = "Edit"
+  description = "COO"
+  mayForecastManagerShare = false
+  name = "COO"
+  opportunityAccessLevel = "Edit"
+  parentRole = salesforce.Role.instance.CEO
+  _alias = "COO2"
+}

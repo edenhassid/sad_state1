@@ -1,4 +1,10 @@
 envs {
   envs = [
+    {
+      name = "sad1"
+      accountToServiceName = {
+        salesforce = "salesforce"
+      }
+    },
   ]
 }

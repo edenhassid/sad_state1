@@ -1,0 +1,10 @@
+salesforce.Role test_25_9 {
+  fullName = "test_25_9"
+  caseAccessLevel = "Edit"
+  contactAccessLevel = "Edit"
+  mayForecastManagerShare = false
+  name = "test 25.9"
+  opportunityAccessLevel = "Edit"
+  parentRole = salesforce.Role.instance.CEO
+  _alias = "test_25_9"
+}

@@ -1,0 +1,11 @@
+salesforce.Role eden1_7 {
+  fullName = "eden1_7"
+  caseAccessLevel = "Edit"
+  contactAccessLevel = "Edit"
+  description = "eden1.7.24-2"
+  mayForecastManagerShare = false
+  name = "eden1.7"
+  opportunityAccessLevel = "Edit"
+  parentRole = salesforce.Role.instance.CEO
+  _alias = "eden1_7"
+}
